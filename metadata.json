@@ -1,0 +1,6 @@
+{
+  "name": "SprintLab: Simulación Scrum - Registro de Fallas ISP",
+  "description": "Simulador interactivo del Sprint de Scrum para el registro trazable de fallas de internet en mesa de soporte (Daniel Moreno, Jesús Telmo Nene, Astrid Villota - Tecnológica del Oriente). Incluye motor de validación, generación de folios correlacionados, bitácora de auditoría, ceremonias Scrum y matriz de pruebas CP01-CP04.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
