@@ -28,6 +28,11 @@ Ejecuta el siguiente comando para instalar todos los paquetes necesarios (`react
 npm install
 ```
 
+> **Nota si usas npm 10 u 11 en Windows**: Si tu versión de `npm` muestra un aviso de conflicto de versiones (ERESOLVE), ejecuta simplemente:
+> ```bash
+> npm install --legacy-peer-deps
+> ```
+
 ### 3. Iniciar el servidor de desarrollo local
 Una vez finalizada la instalación, ejecuta:
 
